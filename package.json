@@ -1,0 +1,25 @@
+{
+  "name": "crypto-randomizer",
+  "version": "1.0.0",
+  "description": "Generates random strings of Number, Alphabets, AlphaNumeric and AlphaNumericSpecialChars- using the crypto function.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/irf-dev-toolkit/crypto-randomizer.git"
+  },
+  "keywords": [
+    "random-string",
+    "crypto-string",
+    "random-string-generator",
+    "crypto-string-generator",
+    "secure-string",
+    "secure-string-generator",
+    "secure-random-string"
+  ],
+  "author": "Irfan Rayachuru",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/irf-dev-toolkit/crypto-randomizer/issues"
+  },
+  "homepage": "https://github.com/irf-dev-toolkit/crypto-randomizer#readme"
+}
